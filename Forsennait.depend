@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1560801580 source:c:\users\mauro\desktop\vita online\programming\random\forsennait\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gamelib.h"
+
+1560801568 c:\users\mauro\desktop\vita online\programming\random\forsennait\gamelib.h
+
+1560767909 source:c:\users\mauro\desktop\vita online\programming\random\forsennait\gamelib.c
+	"gamelib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
