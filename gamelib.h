@@ -47,8 +47,8 @@ typedef enum Tipo_oggetto{
 
 // struttura della torre per lo scontro finale
 typedef struct Piano{
-    unsigned int n_piano;
-    int forza;
+    unsigned short int n_piano;
+    unsigned int forza;
     struct Piano* prossimo;
     struct Piano* precedente;
 } piano_t;

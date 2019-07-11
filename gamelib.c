@@ -659,7 +659,6 @@ void muovi(giocatore_t* g){
     stampa_centrato("N: Nord, S: Sud, O: Ovest, E: Est, X: non valida");
 
     // scegli una mossa
-
     char mossa_scelta;
     bool mossa_valida = false;
     int i;
